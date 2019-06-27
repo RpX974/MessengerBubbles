@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MessengerBubbles_Example' do
+  pod 'MessengerBubbles', :path => '../'
+
+  target 'MessengerBubbles_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
