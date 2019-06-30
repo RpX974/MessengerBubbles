@@ -1,0 +1,24 @@
+PODS:
+  - Kingfisher (5.6.0)
+  - MessengerBubbles (0.1.0):
+    - Kingfisher (~> 5.0)
+
+DEPENDENCIES:
+  - Kingfisher (~> 5.0)
+  - MessengerBubbles (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kingfisher
+
+EXTERNAL SOURCES:
+  MessengerBubbles:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Kingfisher: 1a50df6880a60bae26f3e21a0df3d17b892f5e0b
+  MessengerBubbles: 84246aaca2e82a0431bc2b7e3277c6c328f9c50a
+
+PODFILE CHECKSUM: 8dba77afc93785dacabc04a0e934e9cf4a7578bc
+
+COCOAPODS: 1.7.2

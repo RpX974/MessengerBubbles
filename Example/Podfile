@@ -2,6 +2,7 @@ use_frameworks!
 
 target 'MessengerBubbles_Example' do
   pod 'MessengerBubbles', :path => '../'
+  pod 'Kingfisher', '~> 5.0'
 
   target 'MessengerBubbles_Tests' do
     inherit! :search_paths
