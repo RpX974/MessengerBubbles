@@ -1,5 +1,5 @@
 # MessengerBubbles
-![Banner](Screenshots/Bannger.png?)
+![Banner](Screenshots/Banner.png?)
 
 [![CI Status](https://img.shields.io/travis/Laurent Grondin/MessengerBubbles.svg?style=flat)](https://travis-ci.org/Laurent Grondin/MessengerBubbles)
 [![Version](https://img.shields.io/cocoapods/v/MessengerBubbles.svg?style=flat)](https://cocoapods.org/pods/MessengerBubbles)
