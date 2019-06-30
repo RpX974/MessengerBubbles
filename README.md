@@ -1,7 +1,6 @@
 # MessengerBubbles
 ![Banner](Screenshots/Banner.png?)
 
-[![CI Status](https://img.shields.io/travis/Laurent Grondin/MessengerBubbles.svg?style=flat)](https://travis-ci.org/Laurent Grondin/MessengerBubbles)
 [![Version](https://img.shields.io/cocoapods/v/MessengerBubbles.svg?style=flat)](https://cocoapods.org/pods/MessengerBubbles)
 [![License](https://img.shields.io/cocoapods/l/MessengerBubbles.svg?style=flat)](https://cocoapods.org/pods/MessengerBubbles)
 [![Platform](https://img.shields.io/cocoapods/p/MessengerBubbles.svg?style=flat)](https://cocoapods.org/pods/MessengerBubbles)
